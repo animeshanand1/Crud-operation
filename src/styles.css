@@ -1,0 +1,24 @@
+.main-div {
+  background-color: lightgreen;
+  height: 100vh;
+}
+.child-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.img-span {
+  align-items: center;
+  display: flex;
+
+  justify-content: center;
+  margin-top: 45px;
+}
+.todo-img {
+  width: 90px;
+  height: 90px;
+}
+.todo-items {
+  margin-top: 5px;
+}
